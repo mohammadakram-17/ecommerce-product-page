@@ -1,0 +1,68 @@
+const products = [
+  {
+    id: 1,
+    name: "Wireless Headphones",
+    category: "Electronics",
+    price: 2999,
+    image: "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400",
+    rating: 4.5,
+  },
+  {
+    id: 2,
+    name: "Running Shoes",
+    category: "Fashion",
+    price: 1999,
+    image: "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=400",
+    rating: 4.2,
+  },
+  {
+    id: 3,
+    name: "Backpack",
+    category: "Fashion",
+    price: 1499,
+    image: "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400",
+    rating: 4.0,
+  },
+  {
+    id: 4,
+    name: "Smart Watch",
+    category: "Electronics",
+    price: 4999,
+    image: "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400",
+    rating: 4.7,
+  },
+  {
+    id: 5,
+    name: "Sunglasses",
+    category: "Fashion",
+    price: 999,
+    image: "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=400",
+    rating: 4.1,
+  },
+  {
+    id: 6,
+    name: "Bluetooth Speaker",
+    category: "Electronics",
+    price: 1799,
+    image: "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=400",
+    rating: 4.3,
+  },
+  {
+    id: 7,
+    name: "Yoga Mat",
+    category: "Sports",
+    price: 799,
+    image: "https://images.unsplash.com/photo-1601925228008-6e0f9a4ffde7?w=400",
+    rating: 4.4,
+  },
+  {
+    id: 8,
+    name: "Water Bottle",
+    category: "Sports",
+    price: 499,
+    image: "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=400",
+    rating: 4.6,
+  },
+];
+
+export default products;
